@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">evaluacion1</string>
+    <string name="text_contador_de_productos">Contador de Productos</string>
+    <string name="text_producto_1">Producto 1</string>
+    <string name="text_producto_2">Producto 2</string>
+    <string name="text_producto_3">Producto 3</string>
+    <string name="text_producto_4">Producto 4</string>
+    <string name="text_producto_5">Producto 5</string>
+    <string name="text_producto_6">Producto 6</string>
+    <string name="text_producto_7">Producto 7</string>
+    <string name="text_producto_8">Producto 8</string>
+    <string name="text_producto_9">Producto 9</string>
+    <string name="text_cantidad">#</string>
+    <string name="text_usuario">Usuario</string>
+    <string name="hint_escribe_el_usuario_aqui">Escribe el usuario aqui</string>
+    <string name="text_correo_electronico">Correo Electronico</string>
+    <string name="hint_escriba_el_correo_aqui">Escriba el correo aqui</string>
+    <string name="btn_enviar">enviar</string>
+</resources>
